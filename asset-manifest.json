@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoangansu9/bird-fly/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hoangansu9/bird-fly/static/js/main.1e7c327e.chunk.js",
+    "main.js.map": "/hoangansu9/bird-fly/static/js/main.1e7c327e.chunk.js.map",
+    "runtime-main.js": "/hoangansu9/bird-fly/static/js/runtime-main.dd4f4865.js",
+    "runtime-main.js.map": "/hoangansu9/bird-fly/static/js/runtime-main.dd4f4865.js.map",
+    "static/js/2.4f5d6b09.chunk.js": "/hoangansu9/bird-fly/static/js/2.4f5d6b09.chunk.js",
+    "static/js/2.4f5d6b09.chunk.js.map": "/hoangansu9/bird-fly/static/js/2.4f5d6b09.chunk.js.map",
+    "index.html": "/hoangansu9/bird-fly/index.html",
+    "precache-manifest.4682eeca90e464149a7a95e6ed2b925c.js": "/hoangansu9/bird-fly/precache-manifest.4682eeca90e464149a7a95e6ed2b925c.js",
+    "service-worker.js": "/hoangansu9/bird-fly/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hoangansu9/bird-fly/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4f5d6b09.chunk.js.LICENSE.txt": "/hoangansu9/bird-fly/static/js/2.4f5d6b09.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hoangansu9/bird-fly/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd4f4865.js",
+    "static/js/2.4f5d6b09.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1e7c327e.chunk.js"
+  ]
+}
